@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+RK edit @ oct 13
+
+## In the Json folder
+
+json-server --watch db.json -p 3001 -d 2000
+
 ## Install
 
 `yarn install`
